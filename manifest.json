@@ -1,0 +1,10 @@
+{
+  "name": "internal_monologue",
+  "display_name": "Internal Monologue 🧠",
+  "author": "fay",
+  "description": "Adds a button to ask the character for their internal thoughts without cluttering the chat.",
+  "version": "1.0.0",
+  "entry": "index.js",
+  "css": ["styles.css"],
+  "toggle": true
+}
