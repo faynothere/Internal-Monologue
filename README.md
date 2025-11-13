@@ -1,1 +1,1 @@
-# Internal-Monologue
+ไม่ให้ลอกจ้า อย่ามาก๊อป
